@@ -9,7 +9,7 @@
   in the city.
 
 ### Data Set :
-   Uploaded to the repository.
+  Both Training and Test datasets are uploaded to the repository.
  
  ### Number of attributes:
  
