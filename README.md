@@ -31,7 +31,7 @@
 
 
 ### Note:
-A humble request to the people who came here in search of code for edwisor's project. ##Please don't copy the whole code and content.##
+A humble request to the people who came here in search of code for edwisor's project. Please don't copy the whole code and content.
 I've updated this repository for your project reference. Infact you've spent some amount to learn these skills, better try to write your code in your own way, It'll enhance your analytical skills as well. If stucked somewhere, This repository is always here to help you. 
 
 ### Cheers!
